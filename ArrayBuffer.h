@@ -384,6 +384,6 @@ namespace node {
 #endif
 
   };
-};
+}
 
 #endif
